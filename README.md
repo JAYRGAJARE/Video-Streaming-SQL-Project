@@ -119,4 +119,4 @@ All SQL queries, execution outputs, database screenshots, and detailed explanati
 ## 👨‍💻 Author
 
 **Jay Gajare**  
-Computer Engineering Student | Database & Web Development Enthusiast
+Computer Engineering Student | Database & Data Analyst  Enthusiast
