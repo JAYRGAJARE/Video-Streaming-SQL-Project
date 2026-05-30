@@ -1,5 +1,4 @@
 # Video-Streaming-Project
-## Notes
 The Video Streaming Management System is a database management project developed using MySQL to manage and organize operations of a digital video streaming platform. The system automates important OTT platform activities such as user management, subscription handling, video content organization, payment tracking, and watch history maintenance.
 
 This project focuses on designing a structured relational database with proper relationships between tables using Primary Keys and Foreign Keys. It also demonstrates practical implementation of SQL operations including CRUD operations, JOINs, subqueries, and aggregate functions.
