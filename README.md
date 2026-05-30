@@ -15,7 +15,7 @@ Improve data consistency and accessibility through proper database design.
 🛠️ Technologies Used
 Database: MySQL
 Language: SQL
-Tools: MySQL Workbench / XAMPP / phpMyAdmin
+Tools: MySQL Workbench
 📂 Database Features
 User Management
 Subscription Plan Management
